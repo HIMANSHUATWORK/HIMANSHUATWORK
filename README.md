@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hey there! I'm Himanshu, <br>UI/UX Designer and Web Developer 👨‍💻 <br>Passionate about creating beautiful and functional interfaces for web applications. 💻
+# 💫 About Me:⤵
+👋 Hey there! I'm Himanshu, <br>UI/UX Designer and Web Developer 👨‍💻 <br>Passionate about creating beautiful and functional interfaces for web applications. 💻💻
 
 
 ## 🌐 Socials:
@@ -22,4 +22,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=HIMANSHUATWORK&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
