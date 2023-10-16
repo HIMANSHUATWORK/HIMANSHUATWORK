@@ -18,7 +18,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HIMANSHUATWORK&theme=dark&hide_border=false)<br/>
 
 
-[![HIMANSHUATWORK's GitHub | Topics Over Time](https://stats.quine.sh/HIMANSHUATWORK/topics-over-time?theme=light)](https://quine.sh)
 
 
 
